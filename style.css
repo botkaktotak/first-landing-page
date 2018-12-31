@@ -1,7 +1,9 @@
 body {
   background-color: #ddd;
 }
-
+h1 {
+  text-align: center;
+}
 .header {
   /* height: 600px; */
   /* background-image: url("img/backimg-2.jpg");
