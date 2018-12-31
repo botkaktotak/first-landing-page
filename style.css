@@ -23,3 +23,15 @@ h1 {
 .nav-item {
   padding-left: 15px;
 }
+.footer {
+  padding: 2rem 0;
+  background-color: #282C34;
+  color: white;
+  margin-top: 3rem;
+}
+.copyright {
+  padding: 1rem;
+  background-color: #373838;
+  color: darkgrey;
+  text-align: center;
+}
