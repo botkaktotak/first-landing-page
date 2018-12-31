@@ -1,3 +1,13 @@
+body {
+  background-color: #ddd;
+}
+
+.header {
+  /* height: 600px; */
+  /* background-image: url("img/backimg-2.jpg");
+  background-repeat: no-repeat;
+  background-position: center; */
+}
 .nav-link {
   color: #fff!important;
 }
@@ -7,4 +17,7 @@
 .navbar-nav {
   margin-left: 100px;
   font-size: 2rem;
+}
+li {
+  padding-left: 15px;
 }
